@@ -1,0 +1,82 @@
+
+/*** MIS ESTILOS ***/
+
+/*******************
+		COLORES:
+
+		Azul oscuro: #3b5998
+		Azul claro: #8b9dc3
+		Gris claro: #dfe3ee
+********************/
+
+
+html {
+
+	font-family: Helvetica;
+}
+
+h1 {
+
+	color: #3b5998;
+	margin-bottom: 40px;
+}
+
+h2 {
+
+	color: #3b5998;
+	margin-top: 40px;
+}
+
+li#primero {
+
+	margin-left: 80px;
+}
+
+ul li {
+
+	font-size: 15px;
+	display: inline;
+	background-color: #8b9dc3;
+	color: #def3ee;
+	border: 2px solid #3b5998;
+	border-radius: 4px;
+	padding: 15px 15px 15px 15px;
+	margin-left: 20px;
+
+}
+
+/****************
+	ESTILOS TABLA:
+****************/
+
+caption {
+
+	background-color: #8b9dc3;
+	color: #dfe3ee;
+	font-size: 30px;
+	padding: 20px 0px 20px;
+}
+
+th {
+
+	height: 70px;
+	font-size: 25px;
+}
+
+thead, tfoot {
+
+	background-color: #3b5998;
+	color: #def3ee;
+	text-align: center;
+}
+
+.headfoot {
+
+	font-weight: bold;
+}
+
+.datos {
+
+	text-align: center;
+	font-weight: bold;
+}
